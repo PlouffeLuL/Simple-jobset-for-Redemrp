@@ -12,5 +12,3 @@ server_scripts {
     'server/main.lua',
     '@mysql-async/lib/MySQL.lua',
 }
-
-shared_script 'config.lua'
